@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+	padding: 0;
+	
+}
+video{
+	position: relative;
+}
+
+table.iksweb{
+	position: absolute;
+	top: 170px;
+	left: 22%;
+	width: 60%;
+	border-collapse:collapse;
+	border-spacing:0;
+	height: auto;
+	text-align: center; }
+table.iksweb,table.iksweb td, table.iksweb th {
+	border: 1px solid #595959; }
+table.iksweb td,table.iksweb th {
+	min-height:35px;padding: 3px; 
+	width: 30px;
+	height: 45px; }
+tr{
+	background-color: rgba(255, 153, 5,0.7)
+	}
+.title{
+	background-color: rgba(255, 140, 5,1)
+}
+
